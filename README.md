@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Pramod NAIK
 
-<!--
-**pramodvsnaik/pramodvsnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a **DevOps & Cloud Engineer**, and work around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Azure Cloud   
+- 🔄 CI/CD Pipelines & Infrastructure as Code  
+- 📊 Data Engineering & Analytics  
+- 🧪 Testing, Monitoring, and Optimization
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**
+- `Azure DevOps`, `Terraform`, `Docker`, `Kubernetes`
+- `Python`, `Bash`, `PowerShell`
+- `Data Factory`, `Synapse`, `Databricks`
+- `GitHub Actions`, `Jenkins`, `Prometheus`, `Grafana`
+
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 [LinkedIn](http://linkedin.com/in/pramodvsnaik/)
+
