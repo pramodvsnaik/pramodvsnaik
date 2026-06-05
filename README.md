@@ -17,11 +17,9 @@ I'm a **DevOps & Cloud Engineer**, and work around:
 - `Python`, `Bash`, `PowerShell`
 - `Data Factory`, `Synapse`, `Databricks`
 - `GitHub Actions`, `Jenkins`, `Prometheus`, `Grafana`
-
-
 ---
 
 ## 🌍 Let's Connect
 
-- 💼 [LinkedIn](http://linkedin.com/in/pramodvsnaik/)     💼 [My Work](https://www.pramodnaik.com/)) 
+- 💼 [LinkedIn](http://linkedin.com/in/pramodvsnaik/)     💼 [My Work](https://www.pramodnaik.com/) 
 
